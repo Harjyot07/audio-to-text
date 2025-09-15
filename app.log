@@ -1,0 +1,28 @@
+nohup: ignoring input
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.25:5000
+Press CTRL+C to quit
+192.168.0.25 - - [11/Sep/2025 21:41:49] "GET / HTTP/1.1" 200 -
+192.168.0.25 - - [11/Sep/2025 21:42:23] "GET / HTTP/1.1" 200 -
+192.168.0.25 - - [11/Sep/2025 21:42:28] "GET / HTTP/1.1" 200 -
+192.168.0.25 - - [11/Sep/2025 21:45:05] "POST / HTTP/1.1" 200 -
+192.168.0.142 - - [11/Sep/2025 21:47:20] "GET / HTTP/1.1" 200 -
+192.168.0.142 - - [11/Sep/2025 21:47:20] "GET /favicon.ico HTTP/1.1" 404 -
+192.168.0.27 - - [11/Sep/2025 21:47:22] "GET / HTTP/1.1" 200 -
+192.168.0.27 - - [11/Sep/2025 21:47:22] "GET /favicon.ico HTTP/1.1" 404 -
+192.168.0.142 - - [11/Sep/2025 21:47:50] "GET / HTTP/1.1" 200 -
+192.168.0.142 - - [11/Sep/2025 21:47:50] "GET /favicon.ico HTTP/1.1" 404 -
+192.168.0.27 - - [11/Sep/2025 21:48:44] "POST / HTTP/1.1" 200 -
+192.168.0.142 - - [11/Sep/2025 21:50:12] "POST / HTTP/1.1" 200 -
+192.168.0.27 - - [11/Sep/2025 21:51:53] "POST / HTTP/1.1" 200 -
+192.168.0.142 - - [11/Sep/2025 22:18:29] "POST / HTTP/1.1" 200 -
+192.168.0.142 - - [11/Sep/2025 23:11:28] "GET / HTTP/1.1" 200 -
+192.168.0.142 - - [11/Sep/2025 23:15:31] "POST / HTTP/1.1" 200 -
+192.168.0.142 - - [12/Sep/2025 00:31:13] "POST / HTTP/1.1" 200 -
+192.168.0.142 - - [12/Sep/2025 03:11:18] "POST / HTTP/1.1" 200 -
+192.168.0.142 - - [12/Sep/2025 03:51:46] "POST / HTTP/1.1" 200 -
+192.168.0.142 - - [12/Sep/2025 05:33:02] "POST / HTTP/1.1" 200 -
